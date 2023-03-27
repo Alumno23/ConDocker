@@ -9,6 +9,6 @@ jobs:
       uses: elgohr/Publish-Docker-Github-Action@v5
       with:
         name: Alumno23/products-api
-        username: ${{ secrets.DOCKER_USERNAME }}
+        username: ${{ secrets.docker23 }}
         password: ${{ secrets.DOCKER_PASSWORD }}
         tag_semver: true
