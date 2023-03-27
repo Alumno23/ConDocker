@@ -84,3 +84,4 @@ http://localhost:8080/products
 - **Realiza los pasos previos que te proporcionamos**. No esperes a hacer un trabajo previo al día del examen si puedes ya llevarlo preparado. Lleva así mismo una arquitectura tipo para tu aplicación, con las librerías que utilices, etc..
 
 - **Ten claro el despliegue de tu aplicación en un servidor**. En el último módulo se hará el despliegue, valoración de tests, control de versiones, integración continua.... Todo lo que tengas hecho en días anteriores te ayudará.
+DAW2023
